@@ -1,9 +1,0 @@
-{
-  "domain": "influxdb_size",
-  "name": "HA InfluxDB Size Sensor",
-  "version": "1.0.0",
-  "documentation": "https://github.com/BassBoi/ha-influxdb-size",
-  "requirements": [],
-  "codeowners": ["@BassBoi"],
-  "iot_class": "local_polling"
-}
