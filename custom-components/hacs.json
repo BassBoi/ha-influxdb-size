@@ -1,0 +1,6 @@
+{
+  "name": "HA InfluxDB Size Sensor",
+  "render_readme": "true",
+  "iot_class": "Local Polling",
+  "homeassistant": "2026.1.0"
+}
