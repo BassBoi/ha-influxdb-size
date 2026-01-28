@@ -1,5 +1,7 @@
 # HA InfluxDB Size Monitor Add-on
 
+TESTING PHASE
+
 This Home Assistant add-on reports the size of the InfluxDB add-on data directory using MQTT with auto-discovery.
 
 ## Features
